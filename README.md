@@ -2,20 +2,28 @@
 
 ## I'm a freelance web developer
 
-### Tools & Tech
+## Tools & Tech
 
-#### Backend:
+### Backend:
 Laravel, Node.js, Express.js
 <br/>
 MySql, MongoDB
 
-#### Frontend:
+### Frontend:
 Javascript, Vue.js, Jquery, Bootstrap
 
-#### Other:
+### Other:
 Git, VS Code
 
-### Lets connect
+## Interests
+:page_facing_up: Single Page Apps (SPA)
+
+:arrow_forward: Realtime Apps
+
+:vertical_traffic_light: PLC, SCADA
+
+
+## Lets connect
 [<img align="left" alt="vinaysudani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vinaysudani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
