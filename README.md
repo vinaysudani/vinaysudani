@@ -20,5 +20,4 @@ Git, VS Code
 [<img align="left" alt="vinaysudani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/vinaysudani
-[linkedin]: https://www.linkedin.com/in/vinaysudani/
-[laravel]: https://laravel.com/
+[linkedin]: https://www.linkedin.com/in/vinaysudani
