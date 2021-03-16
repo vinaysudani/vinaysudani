@@ -5,7 +5,7 @@
 ## Tools & Tech
 
 ### Backend:
-Node.js, Express.js, Laravel
+Node.js, Express.js
 <br/>
 MySql, MongoDB
 
