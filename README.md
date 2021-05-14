@@ -1,29 +1,11 @@
-### Hi there, I'm Vinay Sudani
+Hello, I am a self-taught web developer and full-time freelancer. I have been developing web applications and APIs for the last 4+ years with the following tools & technologies.
 
-## I'm a freelance web developer
+PHP, Codeignitor, Laravel, Node.js, Express.js, Mysql, MongoDB, Javascript, Jquery, Vue.js, Bootstrap, Git.
 
-## Tools & Tech
+Currently mostly focusing on backend development with Node.js and Node-RED development. so if you are either looking for a Node.js or Node-RED developer, drop me a message.
 
-### Backend:
-Node.js, Express.js
-<br/>
-MySql, MongoDB
+Thanks!
 
-### Frontend:
-Javascript, Vue.js, Jquery, Bootstrap
-
-### Other:
-Git, VS Code
-
-## Interests
-:page_facing_up: Single Page Apps (SPA)
-
-:arrow_forward: Realtime Apps
-
-:vertical_traffic_light: PLC, SCADA
-
-
-## Lets connect
 [<img align="left" alt="vinaysudani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vinaysudani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
