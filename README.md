@@ -1,6 +1,6 @@
 Hello, I am a self-taught web developer and full-time freelancer. I have been developing web applications and APIs for the last 4+ years with the following tools & technologies.
 
-PHP, Codeignitor, Laravel, Node.js, Express.js, Mysql, MongoDB, Javascript, Jquery, Vue.js, Bootstrap, Git.
+PHP, CodeIgniter, Laravel, Node.js, Express.js, Mysql, MongoDB, Javascript, Jquery, Vue.js, Bootstrap, Git.
 
 Currently mostly focusing on backend development with Node.js and Node-RED development. so if you are either looking for a Node.js or Node-RED developer, drop me a message.
 
